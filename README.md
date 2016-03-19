@@ -1,2 +1,2 @@
-# IDE
-开发环境配置
+# sublime配置及插件
+*   sublime下载地址：[sublime text 3](https://www.sublimetext.com/3)
